@@ -47,8 +47,8 @@ export default class Skills extends Component {
               <div className="progress-wrap">
                 <h3>JavaScript</h3>
                 <div className="progress">
-                  <div className="progress-bar color-4" role="progressbar" aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} style={{width: '50%'}}>
-                    <span>50%</span>
+                  <div className="progress-bar color-4" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} style={{width: '60%'}}>
+                    <span>60%</span>
                   </div>
                 </div>
               </div>
@@ -57,8 +57,8 @@ export default class Skills extends Component {
               <div className="progress-wrap">
                 <h3>React Native</h3>
                 <div className="progress">
-                  <div className="progress-bar color-5" role="progressbar" aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} style={{width: '50%'}}>
-                    <span>50%</span>
+                  <div className="progress-bar color-5" role="progressbar" aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} style={{width: '75%'}}>
+                    <span>75%</span>
                   </div>
                 </div>
               </div>
@@ -67,8 +67,8 @@ export default class Skills extends Component {
               <div className="progress-wrap">
                 <h3>Android Studio</h3>
                 <div className="progress">
-                  <div className="progress-bar color-6" role="progressbar" aria-valuenow={50} aria-valuemin={0} aria-valuemax={100} style={{width: '50%'}}>
-                    <span>50%</span>
+                  <div className="progress-bar color-6" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
+                    <span>70%</span>
                   </div>
                 </div>
               </div>

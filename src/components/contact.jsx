@@ -20,7 +20,7 @@ export default class Contact extends Component {
                   <i className="icon-mail" />
                 </div>
                 <div className="colorlib-text">
-                  <p><a href="mailto:yoga@devanada.com">yoga@devanada.com</a></p>
+                  <p><a href="mailto:yoga@devanada.com">ydevanada@gmail.com</a></p>
                 </div>
               </div>
               <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
