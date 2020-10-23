@@ -79,7 +79,7 @@ figure {
   float: left;
   width: 300px;
   position: fixed;
-  overflow: scroll;
+  overflow: auto;
   z-index: 1001;
   background: #18191A;
   -webkit-transition: 0.5s;
